@@ -24,10 +24,10 @@ Appointment Planner is a clinic scheduling and patient management application de
 
 | Platform | Source |
 |----------|----------|
-| React | https://github.com/syncfusion/ej2-showcase-react-appointment-planner |
-| Angular | https://github.com/syncfusion/ej2-showcase-angular-appointment-planner |
-| Blazor | https://github.com/syncfusion/ej2-showcase-react-appointment-planner |
-| ASP.NET Core | https://github.com/syncfusion/ej2-showcase-react-appointment-planner |
+| React | [link](https://github.com/syncfusion/ej2-showcase-react-appointment-planner) |
+| Angular |  [link](https://github.com/syncfusion/ej2-showcase-angular-appointment-planner) |
+| Blazor |  [link](https://github.com/syncfusion/ej2-showcase-react-appointment-planner) |
+| ASP.NET Core |  [link](https://github.com/syncfusion/ej2-showcase-react-appointment-planner) |
 
 ---
 
